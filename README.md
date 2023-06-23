@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilgar</h1>
 <h3 align="center">.NET Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilgarnasirov&label=Profile%20views&color=0e75b6&style=flat" alt="ilgarnasirov" /> </p>
-
 - 📫 How to reach me **nsirovilqar6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
