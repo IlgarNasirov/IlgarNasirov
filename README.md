@@ -46,6 +46,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 
 </p>
